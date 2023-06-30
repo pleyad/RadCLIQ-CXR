@@ -1,5 +1,9 @@
 # Measuring Progress in Automatic Chest X-Ray Radiology Report Generation
 
+*This Repository is a quasi-fork of the original repository published by Yu et al. (2022).*
+*The original authors did not publish their code on GitHub, but as a Zip-file via Google Drive.*
+*See the last section of this README for the full reference.*
+
 <img src="figures/metric-radiologist-alignment.jpg" width="700"/>
 
 Repository referenced in the paper "Measuring Progress in Automatic Chest 
@@ -81,6 +85,18 @@ This repository is made publicly available under the MIT License.
 
 # Citing
 If you are using this repo, please cite this paper:
-```
-TODO
+
+```bibtex
+@techreport{yuEvaluatingProgressAutomatic2022,
+	type = {preprint},
+	title = {Evaluating {Progress} in {Automatic} {Chest} {X}-{Ray} {Radiology} {Report} {Generation}},
+	url = {http://medrxiv.org/lookup/doi/10.1101/2022.08.30.22279318},
+	language = {en},
+	urldate = {2023-06-02},
+	institution = {Radiology and Imaging},
+	author = {Yu, Feiyang and Endo, Mark and Krishnan, Rayan and Pan, Ian and Tsai, Andy and Reis, Eduardo Pontes and Fonseca, Eduardo Kaiser Ururahy Nunes and Ho Lee, Henrique Min and Abad, Zahra Shakeri Hossein and Ng, Andrew Y. and Langlotz, Curtis P. and Venugopal, Vasantha Kumar and Rajpurkar, Pranav},
+	month = aug,
+	year = {2022},
+	doi = {10.1101/2022.08.30.22279318},
+}
 ```
