@@ -2,3 +2,9 @@
 *.pt
 *.pyc
 *.swp
+
+env/
+data/
+cache/
+resources/
+.vscode/
